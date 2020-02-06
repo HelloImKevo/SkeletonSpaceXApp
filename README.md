@@ -3,16 +3,16 @@ Mobile Android app that interacts with the public SpaceX APIs
 
 # Useful References
 
-## Retrofit
-https://square.github.io/retrofit/
+### Retrofit
+https://square.github.io/retrofit/  
 
-## SpaceX Data 
-https://api.spacexdata.com/
-https://status.spacexdata.com/
-https://docs.spacexdata.com/?version=latest
+### SpaceX Data 
+https://api.spacexdata.com/  
+https://status.spacexdata.com/  
+https://docs.spacexdata.com/?version=latest  
 
-## Picasso
-https://square.github.io/picasso/
+### Picasso
+https://square.github.io/picasso/  
 
 # Core Project Dependencies
 
