@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SpaceXSample</string>
+
+    <string name="label_mission_name">Mission:</string>
+    <string name="label_rocket_name">Rocket:</string>
+    <string name="label_site_name">Site:</string>
+    <string name="label_date">Date:</string>
 </resources>
