@@ -1,6 +1,8 @@
 # SkeletonSpaceXApp
 Mobile Android app that interacts with the public SpaceX APIs
 
+![Main Activity](ScreenMocks/SpaceX-Mock-01.png)
+
 # Useful References
 
 ### Retrofit
